@@ -1,4 +1,6 @@
-# Script de Ping Sweep:
+Este script realiza un barrido de ping en la subred local.
+
+#Script de Ping Sweep:
 
 #!/bin/bash
 # Shark Jack script: Ping Sweep
