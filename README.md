@@ -6,6 +6,11 @@ Este repositorio contiene una colección de scripts Bash creados por el Grupo or
 
     ping_sweep.sh: Realiza un barrido de ping en la subred local para identificar hosts activos.
     packet_capture.sh: Captura tráfico de red en la interfaz ethernet y guarda los resultados en un archivo .pcap.
+    Shark Jack script Detect SIP Protocol.sh Detecta puertos activos comunicaciones SIP
+    Shark Jack script Detect phpMyAdmin installations.sh IP de las posibles instalaciones de phpMyAdmin
+    Shark Jack script Detect potential Windows XP hosts.sh Búsqueda de potenciales hosts con WindowsXP.
+    packet_capture.sh
+    pingsweep.sh 
     
 # Cómo usar
 
